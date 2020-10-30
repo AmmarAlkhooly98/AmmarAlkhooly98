@@ -1,6 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-ammar-alkhooly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ammar-alkhooly/)](https://www.linkedin.com/in/ammar-alkhooly/) 
+[![Linkedin Badge](https://img.shields.io/badge/-ammar_alkhooly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ammar-alkhooly/)](https://www.linkedin.com/in/ammar-alkhooly/) 
 [![Gmail Badge](https://img.shields.io/badge/-ammaralkhooly1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ammaralkhooly1@gmail.com)](mailto:ammaralkhooly1@gmail.com)
 
 <br />
