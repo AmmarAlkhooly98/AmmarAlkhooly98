@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-ammaralkhooly1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ammaralkhooly1@gmail.com)](mailto:ammaralkhooly1@gmail.com)
 
 <br />
-<img align="right" width="600px" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+<img align="right" width="500px" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Ammar Alkhooly
 - A Full-Stack Developer & Open Source enthusiast.
