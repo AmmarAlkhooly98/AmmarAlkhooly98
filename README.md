@@ -18,7 +18,7 @@
 ### 🚦 Stats
 
 <a href="https://github.com/AmmarAlkhooly98/website">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmmarAlkhooly98&show_icons=true&hide=contributes" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmmarAlkhooly98&show_icons=true&hide=contribs" />
 </a>
 <a href="https://github.com/AmmarAlkhooly98/website">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAlkhooly98&layout=compact" />
