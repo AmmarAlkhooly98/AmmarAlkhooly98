@@ -6,7 +6,7 @@
 <br />
 <img align="right" width="450px" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
-### I am Ammar Alkhooly:
+### I am Ammar Alkhooly
 - A Full-Stack Developer & Open Source enthusiast.
 - A Computer Science / Mobile Computing and Networking Undergraduate Student at UCSI University.
 - I have almost 2 year of industry experience in full-stack web development.
