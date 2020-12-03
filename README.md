@@ -7,11 +7,12 @@
 
 ### I am Ammar Alkhooly 👨‍💻
 - A Full-Stack Developer & Open Source enthusiast.
-- A Computer Science / Mobile Computing and Networking Undergraduate Student at UCSI University.
+- A Backend Developer at InstaCEI (fulltime). I love to learn and contribute in any and every possible way.
+- A Student at UCSI University (2020-2023). Studying Bachelor of Computer Science (Hons) Mobile Computing and Networking.
 - I have almost 2 year of industry experience in full-stack web development.
 - Currently working on some of my cool side projects based on Web & Mobile Development.
 - Current Project: [Covid-19 Tracker](https://ammaralkhooly98.github.io/covid-19_tracker/)
-- I'm currently working fulltime at InstaCEI as a Backend Developer. I love to learn and contribute in any and every possible way.
+
 
 
 ### 🚦 Stats
