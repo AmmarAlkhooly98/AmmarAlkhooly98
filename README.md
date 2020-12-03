@@ -11,7 +11,7 @@
 - I have almost 2 year of industry experience in full-stack web development.
 - Currently working on some of my cool side projects based on Web & Mobile Development.
 - Current Project: [Covid-19 Tracker](https://ammaralkhooly98.github.io/covid-19_tracker/)
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- I'm currently working fulltime at InstaCEI as a Backend Developer. I love to learn and contribute in any and every possible way.
 
 
 ### 🚦 Stats
