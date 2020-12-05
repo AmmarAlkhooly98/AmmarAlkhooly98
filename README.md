@@ -13,12 +13,6 @@
 - Currently working on some of my cool side projects based on Web & Mobile Development.
 - Current Project: [Covid-19 Tracker](https://ammaralkhooly98.github.io/covid-19_tracker/)
 
-
-
-
-
-
-
 ### 🚦 Stats
 
 <a href="https://github.com/AmmarAlkhooly98/website">
