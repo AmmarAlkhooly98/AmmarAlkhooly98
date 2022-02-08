@@ -9,7 +9,7 @@
 - A Full-Stack Developer & Open Source enthusiast.
 - I love to learn and contribute in any and every possible way.
 - A Student at UCSI University (2020-2023). Studying Bachelor of Computer Science (Hons) Mobile Computing and Networking.
-- I have 2 year of experience in full-stack web development.
+- I have 3 year of experience in full-stack web development.
 - Currently working on some of my cool side projects based on Web & Mobile Development.
 - Check out my most recent Project: [Covid-19 Tracker](https://ammaralkhooly98.github.io/covid-19_tracker/)
 
