@@ -21,4 +21,3 @@
 <a href="https://github.com/AmmarAlkhooly98/website">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAlkhooly98&layout=compact" />
 </a>
-
