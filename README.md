@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ammar_alkhooly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ammar-alkhooly/)](https://www.linkedin.com/in/ammar-alkhooly/) 
 [![Gmail Badge](https://img.shields.io/badge/-ammaralkhooly1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ammaralkhooly1@gmail.com)](mailto:ammaralkhooly1@gmail.com)
 <br />
-<img align="right" width="350px" alt="GIF" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" />
+<img align="right" width="380px" alt="GIF" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" />
 
 ### I am Ammar Alkhooly 👨‍💻
 - A Full-Stack Developer & Open Source enthusiast.
