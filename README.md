@@ -11,7 +11,7 @@
 - A Student at UCSI University (2020-2023). Studying Bachelor of Computer Science (Hons) Mobile Computing and Networking.
 - I have 3 year of experience in full-stack web development.
 - Currently working on some of my cool side projects based on Web & Mobile Development.
-- Check out my most recent Project: [Crypto-transactions CLI](https://www.npmjs.com/package/crypto-trans), [repo](https://github.com/AmmarAlkhooly98/crypto-trans)
+- Check out my most recent open source Project: [Crypto-transactions CLI](https://www.npmjs.com/package/crypto-trans), [repo](https://github.com/AmmarAlkhooly98/crypto-trans)
 
 ### 🚦 Stats
 
