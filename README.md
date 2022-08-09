@@ -9,8 +9,8 @@
 - A Full-Stack Developer & Open Source enthusiast.
 - I love to learn and contribute in any and every possible way.
 - A Student at UCSI University (2020-2023). Studying Bachelor of Computer Science (Hons) Mobile Computing and Networking.
-- I have 3 year of experience in full-stack web development.
-- Currently working on some of my cool side projects based on Web & Mobile Development.
+- I have 4 year of experience in full-stack web development (Backend Heavy).
+- Currently working on some of my cool side projects based on Web, Mobile & Backend Development.
 - Check out my most recent open source Project: [Crypto-transactions CLI](https://www.npmjs.com/package/crypto-trans), [repo](https://github.com/AmmarAlkhooly98/crypto-trans)
 
 ### 🚦 Stats
