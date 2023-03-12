@@ -9,9 +9,9 @@
 - A Full-Stack Developer & Open Source enthusiast.
 - I love to learn and contribute in any and every possible way.
 - Studied at USCI University.
-- A Student at Scaler Academy, Advanced Coding Bootcamp - An intensive eleven-month computer science course through live classes delivered by tech leaders and subject matter experts. ([Contact me](https://www.linkedin.com/in/ammar-alkhooly/) if you are interested in applying to Scaler Academy for a referral discount)
+- A Student at Scaler Academy, Advanced Coding Bootcamp - An intensive eleven-month computer science course through live classes delivered by tech leaders and subject matter experts.
 - I have 4 year of experience in full-stack web development (Backend Heavy).
-- Currently working on some of my cool side projects based on Web, Mobile & Backend Development.
+- Currently working on some of my cool side projects based on Web, DevOps & Backend Development.
 - Check out my most recent open source Project: [Crypto-transactions CLI](https://www.npmjs.com/package/crypto-trans), [repo](https://github.com/AmmarAlkhooly98/crypto-trans)
 
 ### 🚦 Stats
