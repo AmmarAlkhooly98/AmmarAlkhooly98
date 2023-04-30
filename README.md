@@ -6,6 +6,7 @@
 <img align="right" width="380px" alt="GIF" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" />
 
 ### I am Ammar Alkhooly 👨‍💻
+
 - A Full-Stack Developer & Open Source enthusiast.
 - I love to learn and contribute in any and every possible way.
 - Studied at USCI University.
