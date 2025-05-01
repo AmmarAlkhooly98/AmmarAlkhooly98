@@ -24,7 +24,7 @@ const ammar = {
   backend: ['Node.js', 'Express.js', 'Django', 'Ruby on Rails', 'Nest.js'],
   frontend: ['React', 'Redux', 'Next.js', 'jQuery'],
   databases: ['MySQL', 'PostgreSQL', 'MongoDB', 'Redis'],
-  tools: ['Git', 'AWS', 'Azure DevOps', 'Postman'],
+  tools: ['Git', 'AWS', 'Azure DevOps', 'Cloudflare', 'Postman'],
   architecture: ['RESTful APIs', 'WebSockets', 'Microservices']
 }
 ```
