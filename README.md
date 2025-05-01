@@ -1,25 +1,68 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+# Hi there, I'm Ammar 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-ammar_alkhooly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ammar-alkhooly/)](https://www.linkedin.com/in/ammar-alkhooly/) 
-[![Gmail Badge](https://img.shields.io/badge/-ammaralkhooly1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ammaralkhooly1@gmail.com)](mailto:ammaralkhooly1@gmail.com)
-<br />
-<img align="right" width="380px" alt="GIF" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" />
+## Backend Developer & Full-Stack Enthusiast
 
-### I am Ammar Alkhooly 👨‍💻
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ammaralkhooly)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ammaralkhooly98/)
+[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/crypto-trans)
 
-- A Full-Stack Developer & Open Source enthusiast.
-- I love to learn and contribute in any and every possible way.
-- Studied at USCI University.
-- A Student at Scaler Academy, Advanced Coding Bootcamp - An intensive eleven-month computer science course through live classes delivered by tech leaders and subject matter experts.
-- I have 4 year of experience in full-stack web development (Backend Heavy).
-- Currently working on some of my cool side projects based on Web, DevOps & Backend Development.
-- Check out my most recent open source Project: [Crypto-transactions CLI](https://www.npmjs.com/package/crypto-trans), [repo](https://github.com/AmmarAlkhooly98/crypto-trans)
+---
 
-### 🚦 Stats
+### 💻 About Me
 
-<a href="https://github.com/AmmarAlkhooly98/website">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmmarAlkhooly98&show_icons=true&hide=contribs&count_private=true&theme=algolia" />
-</a>
-<a href="https://github.com/AmmarAlkhooly98/website">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAlkhooly98&layout=compact" />
-</a>
+I'm a passionate Backend Developer based in Istanbul, with experience across the full stack. I love building robust APIs, solving complex problems, and mentoring others in their coding journey.
+
+When I'm not crafting clean code, you can find me helping others level up their tech skills or optimizing database queries for that extra performance boost!
+
+---
+
+### 🛠️ Tech Stack
+
+```javascript
+const ammar = {
+  languages: ['JavaScript', 'Python', 'Ruby', 'SQL', 'HTML', 'CSS'],
+  backend: ['Node.js', 'Express.js', 'Django', 'Ruby on Rails', 'Nest.js'],
+  frontend: ['React', 'Redux', 'Next.js', 'jQuery'],
+  databases: ['MySQL', 'PostgreSQL', 'MongoDB', 'Redis'],
+  tools: ['Git', 'AWS', 'Azure DevOps', 'Postman'],
+  architecture: ['RESTful APIs', 'WebSockets', 'Microservices']
+}
+```
+
+---
+
+### 🚀 Featured Projects
+
+#### [Crypto Transactions CLI](https://www.npmjs.com/package/crypto-trans)
+A powerful open-source CLI tool that accelerates crypto portfolio data retrieval by 30%, helping investors efficiently query information from large CSV files.
+
+#### [Tasks Manager API](https://github.com/AmmarAlkhooly98/todo-api)
+A modern RESTful API for task management to streamline daily productivity.
+
+#### [Ajirni](https://github.com/AmmarAlkhooly98/Ajirni)
+An online platform similar to Open Sooq, tailored specifically for the rental market, enabling users to list their rental items.
+
+---
+
+### 📈 GitHub Stats
+
+![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmmarAlkhooly98&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAlkhooly98&layout=compact&theme=radical)
+
+---
+
+### 🌱 Currently Learning
+
+- Advanced system design patterns
+- Enhancing algorithm-solving skills on LeetCode
+- Scaling distributed systems
+
+---
+
+### 📫 Let's Connect!
+
+- Email: ammaralkhooly1@gmail.com
+- Location: Istanbul, Turkey
+
+> "Clean code always looks like it was written by someone who cares." - Robert C. Martin
